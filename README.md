@@ -1,2 +1,9 @@
 # DAEK-WEB-CYBER-COMMUNTY404
 BANGLADESH DARK WEB CYBER COMMUNITY 
+apt update
+apt upgrade 
+pkg install git
+pkg install python2
+git clonehttps://github.com/DARK-KING404/DAEK-WEB-CYBER-COMMUNTY404.git
+cd DAEK-WEB-CYBER-COMMUNTY404
+python DARK-WEB-CYBERCOMMUNITY.py
